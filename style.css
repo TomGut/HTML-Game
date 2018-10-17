@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+}
+
+canvas {
+    display: block;
+    margin: auto;
+    border: 3px solid black;
+    background-color: skyblue;
+}
+
